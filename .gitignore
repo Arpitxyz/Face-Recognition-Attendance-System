@@ -1,2 +1,8 @@
 __pycache__/
 *.pyc
+
+# Or to manually ignore files:
+# __pycache__/
+# test.pyc
+# main.pyc
+# app.pyc
